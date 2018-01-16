@@ -12,3 +12,13 @@ Second year project for Software Architecture Design and Implementation. In this
 ### Built With
 * [Eclipse](https://www.eclipse.org/home/index.php) - Framework/IDE
 * Java - Language
+
+### Showcase
+***Add Player***  
+![add-player](https://github.com/ZankiMaru/craps-game/blob/master/showcases/sadi-add-player.gif)
+
+***Bet***  
+![bet](https://github.com/ZankiMaru/craps-game/blob/master/showcases/sadi-make-bet.gif)
+
+***Roll***  
+![roll](https://github.com/ZankiMaru/craps-game/blob/master/showcases/sadi-roll.gif)
